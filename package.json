@@ -1,0 +1,11 @@
+{
+  "name": "knip-repro-css-modules",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "knip": "^5.62.0",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "knip": "knip"
+  }
+}
